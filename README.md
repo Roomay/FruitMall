@@ -9,7 +9,7 @@
 
 ### 1.1 系统环境配置
 
-**软件的安装配置可以查看b站java攀登网001的相关视频**
+**软件的安装配置可以查看以上原po的相关视频**
 
 * 系统开发平台：Tomcat8.0+JDK1.8+Windows7
 
@@ -115,7 +115,7 @@
   对于 Bad class file 的报错，可以考虑将对应报错的库所在的依赖包，版本回退到上一个版本，如 java: cannot access org.apache.solr.client.solrj.beans.Field
    bad class 
   我们可以将依赖包中 solr 的版本修改为 8.11.1
- 
+
 * 点击运行
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1224/192240_b8f275da_7604956.png "屏幕截图.png")
